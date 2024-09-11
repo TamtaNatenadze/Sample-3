@@ -1,0 +1,42 @@
+
+
+
+
+
+second page
+<main>
+    <a class="nav-link" href ="Products"> Products </a>
+        <img src="IIpage.png" alt="Clickable page" id="clicked-page">
+        <a href="assignment11.html">Back to Home Page><a>
+    </a>
+</nav>
+
+    <div class="product2">
+    <img src="Product 2.png" alt="Clickable product2" id="clicked-product2">
+    <a href="assignment11.html">Back to Home Page<a>
+    </a>
+    </div>
+
+    <div class="product3">
+        <img src="Product 3.png" alt="Clickable product1" id="third-product">
+        <a href="assignment11.html">Back to Home Page><a>
+    </a>
+    </div>
+
+    <div class="product4">
+        <img src="Product 4.png" alt="Clickable product4" id="fourth-product">
+        <a href="assignment11.html">Back to Home Page><a>
+    </a>
+    </div>
+
+    <div class="product5">
+        <img src="Product 5.png" alt="Clickable product1" id="fifth-product">
+        <a href="assignment11.html">Back to Home Page><a>
+    </a>
+    </div>
+
+    <div class="product6">
+        <img src="Product 3.png" alt="Clickable product1" id="sixth-product">
+        <a href="assignment11.html">Back to Home Page><a>
+    </a>
+    </div>
