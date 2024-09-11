@@ -1,0 +1,47 @@
+.text1{
+    color:rgb(201, 200, 200);
+}
+.text2{
+    color: rgb(103, 168, 103);
+    position: relative;
+    left: 70px;
+}
+.navclass{
+    position: fixed;
+    right: 150px;
+    top: 60px;
+}
+.divider{
+    margin-top: 20px;
+    border-top: 20 px solid black;
+}
+.relative-section{
+    position: relative;
+    left: 700px;
+    bottom: -50px;
+}
+.imagePosition{
+    position: absolute;
+    bottom: 130px;
+    left: 150px;
+}
+.rectangle1{
+    position: absolute;
+    background-color: green;
+    color: white;
+    text-align: center;
+    width: 130px;
+    height: 30px;
+    left: 5px;
+    bottom: -100px;
+}
+.rectangle2{
+        position: absolute;
+        background-color: green;
+        color: white;
+        text-align: center;
+        width: 130px;
+        height: 30px;
+        left: 170px;
+        top: 1px;
+}
